@@ -23,6 +23,6 @@ public class Main extends SpringBootServletInitializer{
 	
 	@RequestMapping(value="/")
 	public String helloWorld() {
-		return "<h1>Hello World Testing</h1>";
+		return "<h1>Hello World Testing1</h1>";
 	}
 }
