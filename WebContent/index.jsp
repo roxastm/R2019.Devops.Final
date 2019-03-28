@@ -7,6 +7,6 @@
 <title>Devops Bootcamp - HTML</title>
 </head>
 <body bgcolor="#32CD32">
-	<h1>Hello World - Team Pastors!</h1>
+	<h1>Test Jman</h1>
 </body>
 </html>
