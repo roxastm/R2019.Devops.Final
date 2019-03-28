@@ -7,6 +7,6 @@
 <title>Devops Bootcamp - HTML</title>
 </head>
 <body bgcolor="#E6E6FA">
-	<h1>Hello World from Team EA by Kuya AP!</h1>
+	<h1>Hello World from Team EA by Pastore JMIKE!</h1>
 </body>
 </html>
