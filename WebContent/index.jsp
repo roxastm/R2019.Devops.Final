@@ -7,6 +7,6 @@
 <title>Devops Bootcamp - HTML</title>
 </head>
 <body bgcolor="#E6E6FA">
-	<h1>Hello World!</h1>
+	<h1>Hello World from Team EA!</h1>
 </body>
 </html>
