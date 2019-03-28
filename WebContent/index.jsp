@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
-	<h1>Hello World Kuya Pao!</h1>
+<body bgcolor="#E6E6FA">
+	<h1>Hello World!</h1>
 </body>
 </html>
