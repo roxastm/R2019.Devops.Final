@@ -11,7 +11,7 @@
 <body>
 	<div class="container">
 		<div class="jumbotron">
-		<h1 class="display-4">Hello <b>Everyone</b>!</h1>
+		<h1 class="display-4">Hello <b>Everybody</b>!</h1>
   		<p class="lead">This is a sample home page for our Case Study!</p>
   		<hr class="my-4">
   		<p>
